@@ -4,7 +4,7 @@
     <img src="./pack.png" alt="icon" style="zoom:200%;">
 </a>
 
-# Mandalas GUI - Dark Mode TSNG Compat
+# Mandalas GUI - Dark Mod KOTS Compat
 
 <a href="./LICENSE">
     <img src="https://img.shields.io/badge/license-CC--BY--NC--SA--4.0-8A2BE2" alt="license">
@@ -14,4 +14,4 @@
 
 ## 简介
 
-适配 Tsuri No Gatsu 5 整合包的 Mandalas GUI - Dark Mode 资源包拓展。
+适配 Tsuri No Gatsu 与 Kumo O Tagayasu 整合包的 Mandalas GUI - Dark Mode 资源包拓展。
