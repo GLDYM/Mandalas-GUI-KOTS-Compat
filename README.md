@@ -14,4 +14,4 @@
 
 ## 简介
 
-适配 Tsuri No Gatsu 与 Kumo O Tagayasu 整合包的 Mandalas GUI - Dark Mode 资源包拓展。
+适配织彩钓月与耕云钓月整合包的 Mandalas GUI - Dark Mode 资源包拓展。
